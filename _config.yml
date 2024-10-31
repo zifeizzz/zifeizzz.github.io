@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zaizheng Zhou / 周在征"
 title_separator          : "-"
 name                     : &name "Zaizheng Zhou"
-description              : &description "personal description"
+description              : &description "Hello! I am a university lecturer and Ph.D. researcher specializing in paleomagnetism and plate reconstruction. My work focuses on unraveling the Earth's ancient magnetic fields and tectonic shifts, providing insights into our planet’s geological evolution. Welcome to my blog, where I share research updates, discoveries, and explorations into Earth’s dynamic history."
 url                      : https://zifeizzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zifeizzz/zifeizzz.github.io"
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "周在征"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "zhouzaizheng8123@163.com"
+  researchgate     :  "https://www.researchgate.net/profile/Zhou-Zaizheng"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zifeizzz"
   google_plus      :
   keybase          :
   instagram        :
